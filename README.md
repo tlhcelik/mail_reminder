@@ -18,7 +18,7 @@ Open dos-command-shell follow the codes :
         
         or is set of PYTHONPATH 
         
-        python C:\Users\user-name\Desktop\reminder\main.py 2 example@gmail.com C:\Users\user-name\Desktop\my_reminders.txt
+        python main.py 2 example@gmail.com C:\Users\user-name\Desktop\my_reminders.txt
 
 <strong>Parameters Is :</strong><br>
 
