@@ -12,6 +12,7 @@ Open the any GNU/Linux distribution terminal follow the codes :
 
 <h3>For Windows Users</h3>
 Open dos-command-shell follow the codes :
+        
         cd C:\Python27\
         python C:\Users\user-name\Desktop\reminder\main.py 2 example@gmail.com C:\Users\user-name\Desktop\my_reminders.txt
         
