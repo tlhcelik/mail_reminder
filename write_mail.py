@@ -43,7 +43,7 @@ class MailWriter (object):
             #__mail = smtplib.SMTP_SSL(__server,587)
             __mail.ehlo()
             __mail.starttls()
-            __mail.login('malc.reminder@gmail.com', 'karaman70')
+            __mail.login('your_mail@gmail.com', 'your_password')
             __mail.sendmail(__from, __to,__subject2)
 
         except Exception as e:
